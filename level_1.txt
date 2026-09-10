@@ -1,0 +1,1 @@
+level starts with some brick tiles and question tiles as well as a simple enemy to introduce the player to the mechanics
